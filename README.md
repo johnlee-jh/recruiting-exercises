@@ -11,7 +11,7 @@ Given the input pattern of `{ order_item: quantity } , [ warehouse: { supply_ite
 ## How to Run Program
 1. `cd` into the recruiting-exercises/inventory-allocator/src folder, and you will be able to see two files: InventoryAllocator.java and InventoryAllocatorTest.java
 
-2. The java file is already compiled with the `javac` command, but in case it doesn't work locally, use `javac InventoryAllocator.java && javac InventoryAllocatorTest.java`.
+2. The java files are already compiled with the `javac` command, but in case it doesn't work locally, use `javac InventoryAllocator.java && javac InventoryAllocatorTest.java`.
 
 3. **To run the actual class** (InventoryAllocator), use `java InventoryAllocator` inside the src folder. This will prompt a line in your terminal that says `Input:`. Type/paste your input into the command line, and the program will give an output.
 
