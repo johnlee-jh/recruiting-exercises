@@ -1,4 +1,4 @@
-# Inventory Allocator Exercise - John(Junghwan) Lee
+# Inventory Allocator Recruiting Exercise - John(Junghwan) Lee
 
 ## Languages and Tools
 Java (11) and IntelliJ IDE 
