@@ -1,6 +1,8 @@
 # Inventory Allocator Exercise - John(Junghwan) Lee
 
-The inventory allocator class and tests are located in recruiting-exercises/inventory-allocator/src.
+My solution parses & identifies input patterns and displays output in a format shown at https://github.com/deliverr/recruiting-exercises/tree/master/inventory-allocator.
+
+
 
 ## Languages and Tools used
 Java (11) and IntelliJ IDE 
