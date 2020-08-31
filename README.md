@@ -7,7 +7,7 @@ My solution parses & identifies input patterns and displays output in a format s
 The inventory allocator class and tests are located in recruiting-exercises/inventory-allocator/src
 
 
-## Languages and Tools used
+## Languages and Tools
 Java (11) and IntelliJ IDE 
 
 ## Program Guide
