@@ -1,6 +1,6 @@
 # Inventory Allocator Exercise - John(Junghwan) Lee
 
-## Languages and Tools used
+## Languages and Tools
 Java (11) and IntelliJ IDE 
 
 ## Program Guide
