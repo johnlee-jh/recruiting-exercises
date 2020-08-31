@@ -15,7 +15,7 @@ Given the input pattern of `{ order_item: quantity } , [ warehouse: { supply_ite
 
 3. **To run the actual class** (InventoryAllocator), use `java InventoryAllocator` inside the src folder. This will prompt a line in your terminal that says `Input:`. Type/paste your input into the command line, and the program will give an output.
 
-Input example) `{ cheese: 1 }, [{ name: cheeseFactory, inventory: { cheese: 2 } }]`
+  Input example) `{ cheese: 1 }, [{ name: cheeseFactory, inventory: { cheese: 2 } }]`
 
 4. **To run all test cases** (InventoryAllocatorTest), use `java InventoryAllocatorTest runAllTests` inside the src folder. This will run all 12 JUnit tests created.
 
