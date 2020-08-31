@@ -1,5 +1,3 @@
-# Instructions inside src folder Readme!
-
 ## Problem
 
 The problem is compute the best way an order can be shipped (called shipments) given inventory across a set of warehouses (called inventory distribution). 
