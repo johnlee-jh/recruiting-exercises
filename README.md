@@ -1,4 +1,4 @@
-# Inventory Allocator Recruting Exercise - John(Junghwan) Lee
+# Inventory Allocator Exercise - John(Junghwan) Lee
 
 The inventory allocator class and tests are located in recruiting-exercises/inventory-allocator/src.
 
