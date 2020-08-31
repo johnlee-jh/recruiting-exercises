@@ -8,7 +8,7 @@ Java (11) and IntelliJ IDE
 ## Program Guide
 Given the input pattern of `{ order_item: quantity } , [ warehouse: { supply_item: quantity } ]`, this inventory allocator class scans & parses the input to remember order details and warehouse inventory distrubutions. It then computes the cheapest shipment method according to the pre-sorted list of warehouse inventories, and formats the output to be in the pattern of `[ { warehouse_name: { item: quantity } } ]`.
 
-## How to Run Program
+## How to Run
 1. `cd` into the recruiting-exercises/inventory-allocator/src folder, and you will be able to see two files: InventoryAllocator.java and InventoryAllocatorTest.java
 
 2. The java files are already compiled with the `javac` command, but in case it doesn't work locally, use `javac InventoryAllocator.java && javac InventoryAllocatorTest.java`.
