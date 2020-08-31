@@ -21,6 +21,16 @@ Given the input pattern of `{ order_item: quantity } , [ warehouse: { supply_ite
 
 ## Tests
 There 12 tests, each with their own comment inside InventoryAllocatorTest.java
-They are as follows:
-1. Method Test
-2. test
+They test for each of the following cases:
+1. Method (Tests if each method is correct)
+2. Basic functionality
+3. Warehouse inventory lacks order quantity
+4. Warehouse has some order items but lacks other order items
+5. Warehouse doesn't have order item
+6. Warehouse inventory lacks order quantity
+7. Multiple warehouses for different items
+8. Multiple warehouses for the same item (checks if cheapest option is computed)
+9. Large order quantities with multiple warehouses (checks for calculation errors)
+10. Negative order quantities
+11. Negative warehouse inventories
+12. Spacing error nullification in input (customized feature)
