@@ -20,8 +20,7 @@ Given the input pattern of `{ order_item: quantity } , [ warehouse: { supply_ite
 4. **To run all test cases** (InventoryAllocatorTest), use `java InventoryAllocatorTest runAllTests` inside the src folder. This will run all 12 JUnit tests created.
 
 ## Tests
-There 12 tests, each with their own comment inside InventoryAllocatorTest.java
-They test for each of the following cases:
+There 12 tests, each with their own comment inside InventoryAllocatorTest.java. They test for each of the following cases:
 1. Method (Tests if each method is correct)
 2. Basic functionality
 3. Warehouse inventory lacks order quantity
