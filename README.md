@@ -1,6 +1,6 @@
 # Inventory Allocator Recruting Exercise - John(Junghwan) Lee
 
-The inventory allocator class & tests are located in recruiting-exercises/inventory-allocator/src.
+The inventory allocator class and tests are located in recruiting-exercises/inventory-allocator/src.
 
 ## Languages and Tools used
 Java (11) and IntelliJ IDE 
